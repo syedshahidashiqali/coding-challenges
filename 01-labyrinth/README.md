@@ -8,7 +8,7 @@ be either empty (meaning this is a passable block) or filled
 
 Example of the labyrinth (black blocks are walls):
 
-![example](./example.png)
+![example](./labyrinth.png)
 
 The purpose of the task is to create a backend REST service which
 provides the endpoints to create and solve these kind of labyrinths.
